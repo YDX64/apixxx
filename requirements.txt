@@ -1,0 +1,14 @@
+Flask
+beautifulsoup4
+lxml
+requests
+aiohttp
+aiofiles
+asyncio
+flask-caching
+python-dotenv
+marshmallow
+flask-limiter
+flask-cors
+PyJWT
+bcrypt

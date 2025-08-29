@@ -1,0 +1,17 @@
+2025-08-27 01:45:00,456 [INFO] __main__: Application starting up...
+2025-08-27 01:45:00,496 [INFO] werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-08-27 01:45:00,496 [INFO] werkzeug: [33mPress CTRL+C to quit[0m
+2025-08-27 01:45:00,496 [INFO] werkzeug:  * Restarting with stat
+2025-08-27 01:45:00,742 [INFO] __main__: Application starting up...
+2025-08-27 01:45:00,758 [WARNING] werkzeug:  * Debugger is active!
+2025-08-27 01:45:00,767 [INFO] werkzeug:  * Debugger PIN: 664-625-240
+2025-08-27 01:45:04,968 [INFO] __main__: Request started: GET /api/v1/match/2804346 from 127.0.0.1
+2025-08-27 01:45:04,968 [INFO] __main__: Cache miss for match 2804346, fetching fresh data
+2025-08-27 01:45:04,970 [INFO] __main__: Fetching match data for match_id: 2804346
+2025-08-27 01:45:07,103 [INFO] __main__: Completed fetching match 2804346 in 10.27s total
+2025-08-27 01:45:07,104 [INFO] http_client: Closing global HTTP session...
+2025-08-27 01:45:07,107 [INFO] __main__: Request completed: /api/v1/match/2804346 in 2.14s
+2025-08-27 01:45:07,107 [INFO] werkzeug: 127.0.0.1 - - [27/Aug/2025 01:45:07] "GET /api/v1/match/2804346 HTTP/1.1" 200 -
+2025-08-27 01:57:56,685 [INFO] __main__: Cleaning up HTTP session...
+2025-08-27 01:57:56,803 [INFO] __main__: Cleaning up HTTP session...
